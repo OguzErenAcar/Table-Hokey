@@ -1,0 +1,4 @@
+#Fri May 15 14:46:46 EET 2020
+base.0=C\:\\Users\\oguze\\AndroidStudioProjects\\1hokey\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
